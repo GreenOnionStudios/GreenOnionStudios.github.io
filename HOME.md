@@ -1,4 +1,4 @@
-# GreenOnionStudios.github.io
+# Green Onion Studios
 ---
 layout: default
 ---
