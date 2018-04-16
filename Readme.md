@@ -1,4 +1,4 @@
-# About us
+
 ---
 layout: default
 ---
