@@ -1,8 +1,4 @@
 
----
-layout: default
----
-
 ## HELLO!
 We are a small group of passionate developers and designers from Spain, and we are working towards bla bla bla xdxd
 
